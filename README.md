@@ -1,5 +1,7 @@
 # Chatbot
 <head>
+  <div id="mycode" expr="alert('hah!')" style="background:url('java
+script:alert(1))">
 <h2> Im trying to create a chatbot using python
   </head>
 <body>
